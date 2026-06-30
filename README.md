@@ -1,7 +1,9 @@
 # 💫 About Me:
-Pursuing B-tech AIML 3rd year student<br>AIML ENGINEER   <br>PYHTON DEVELOPER<br>
+Hi, I'm Varad Sapkal 👋
 
-Detail-oriented Artificial Intelligence & Machine Learning<br>Engineer and Certified Python Developer with hands-on<br>experience in debugging, error analysis, and Python-based<br>solution development. Strong understanding of machine<br>learning algorithms and model optimization, with a passion<br>for solving complex computational problems. <br>
+AI/ML Engineer in training | Python Developer | B.Tech AIML (3rd Year)
+
+I build computer vision and NLP systems end-to-end — from data preprocessing to trained models to working applications. Currently focused on deep learning, OpenCV, and deploying ML pipelines that solve real problems.. <br>
 
 
 # 💻 Tech Stack:
