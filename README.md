@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Varad Sapkal 👋
 
-AI/ML Engineer in training | Python Developer | B.Tech AIML (3rd Year)
+AI/ML Engineer in training | Python Developer | B.Tech AIML (Final Year)
 
 I build computer vision and NLP systems end-to-end — from data preprocessing to trained models to working applications. Currently focused on deep learning, OpenCV, and deploying ML pipelines that solve real problems.. <br>
 
